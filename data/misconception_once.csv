@@ -1,0 +1,752 @@
+MisconceptionId,MisconceptionName
+1672,"Confuses the order of operations, believes addition comes before multiplication "
+847,Thinks they can convert a 2 digit percentage to a fraction by writing one number over the other.
+2133,"When dividing a decimal by a multiple of 10, just divides the fractional place values "
+1889,Believes f(x - a) translates the function up a units
+1234,Believes f(x + a) translates the function up a units
+1588,Thinks only angles on parallel lines can be alternate
+2179,Assumes that an arrow on a number line starts at zero
+1916,"When subtracting fractions, subtracts the numerators and multiplies the denominators"
+2147,Believes they should multiply each numerator by its original denominator when adding/subtracting fractions
+2474,Confuses the square root of the radius with the radius squared in the equation of a circle
+1944,Confuses the radius with the radius squared in the equation of a circle
+98,Incorrectly clears fractions from equations
+218,Does not interpret a sloping gradient as a change in rate
+961,Does not spot the difference between a gradual change of gradient and 2 distinct line segments with different constant gradients
+2021,Does not recognise when a fraction can be simplified
+1958,"Believes the smaller number is always subtracted from the larger, regardless of the order of the calculation"
+959,Believes it is impossible to subtract a bigger number from a smaller number
+182,Believes parallel lines have gradients of opposite signs
+1461,Believes parallel lines have gradients that multiply to give -1
+630,Does not know parallel lines have equal gradients 
+646,Confuses scalene and right angle triangles
+944,"When dividing involving a power of 10, gives an answer 10 times bigger than it should be"
+544,When dividing a decimal by a power of 10 adds zeroes to start of the number ignoring the placement of the initial decimal point
+964,"When dividing involving a power of 10, gives an answer 10 times smaller than it should be"
+1734,Thinks that we can remove a division symbol and just write the variables next to each other
+499,Does not realise ratio in worded problem can be simplified
+2178,Believes mixed numbers cannot be simplified
+1068,Believes the fx column for calculating mean is value + frequency
+352,Believes the fx column for calculating mean is value - frequency
+2159,Believes the fx column for calculating mean is value/frequency
+1894,Confuses the part and the whole in missing number subtraction problems
+1751,Does not realise we can borrow from the preceding digit in a subtraction problem
+882,Believes 0 has no square root
+2023,Thinks when finding a percentage you divide by the percentage being asked
+2083,Thinks y =1 is the y axis
+272,When finding a missing side of a parallelogram given the area completes an extra step of dividing by 2
+2397,Does not realise we can find a missing length if we know the base of a parallelogram and its area. 
+1771,Believes the solution of a quadratic inequality is always the interval between the roots
+1590,Believes any two inequalities can be combined into a double inequality
+1468,Orders integers based on first digits without taking into account place value
+1744,Rounded to nearest 100 instead of 1sf
+2091,Thinks depth always goes front to back in a diagram of a 3D shape
+2218,Assumes that opposite angles are equal in a quadrilateral
+460,"Believes the graph of x squared + c has the turning point of (-c, 0)"
+492,"Believes the graph of x squared + c has the turning point of (c, 0)"
+290,Thinks a decreasing sequence cannot be quadratic
+372,"In ratio question where the difference between the sides is given, uses that as the total"
+532,Confuses alternate and opposite angles
+463,Reads the complement of what is required from a pie chart
+1396,Finds a percentage when asked for a fraction
+1326,Does not know the meaning of square sign for right angle
+867,When finding the area of a parallelogram does not understand which lengths to use
+695,Has found the area of a triangle rather than an area of a parallelogram
+1362,Believes that the angle on a pie chart is the frequency multiplied by 10
+1008,"When dividing an integer by a fraction, thinks they multiply numerator and denominator by the integer"
+839,"When dividing by a non unit fraction, thinks you multiply by the reciprocal of the corresponding unit fraction rather than the fraction given. "
+851,Thinks a negative x value in a column vector means to move right rather than left 
+2173,Does not realise that division can be used to find the missing value in a multiplication problem
+1600,Thinks a lower average means the data is more consistent
+1923,Thinks a greater range means more consistent data
+880,Thinks a higher average means more consistent data
+1425,Believes two lines of the same length are parallel
+2475,"When finding the nth term rule for a quadratic sequence, believes they only need to use the first term to calculate the coefficient of n "
+1406,Does not recognise that interior and exterior angles are supplementary
+405,Believes the only way to find the interior angle of a regular polygon is to subtract the exterior angle from 180.
+1724,"When completing the square, believes that a is always half the x-coefficient. "
+1714,"When completing the square, believes the constant in the bracket is the square root of the coefficient of x"
+271,Believes triangle numbers are formed differently to the correct way
+1915,When multiplying mixed numbers thinks they add the integers
+1637,Has used the decimal point to separate numerator and denominator
+1424,Thinks numbers greater than 1 cannot be converted into fractions
+1169,Does not know that cubic means the same as cubed in units
+322,Believes that rounding must change the number
+1277,"In algebra, thinks it's ok to write (for example) 0x rather than just 0"
+1093,Has multiplied the value of the first term by the the term being asked
+2068,"Does not know that to factorise a quadratic expression, to find two numbers that add to give the coefficient of the x term, and multiply to give the non variable term
+
+"
+521,"When asked to triple, writes the digit out three times"
+2163,Attempts to simplify ratio by subtracting from both sides
+1350,"When simplifying a ratio, divides one side of the ratio but multiplies the other side."
+1009,Does not know the meaning of bisect
+863,Believes inequalities can only include integers
+742,Believes solving an inequality gives a single value as a solution
+2126,Miscounts when subtracting over zero
+1561,Believes the mean is total frequency divided by something
+1526,Believes that they only need to write non-zero digits when giving a number in digits
+1525,Confuses written 'teen' numbers with their corresponding multiples of 10
+2329,Thinks the remainder is the difference between the dividend and the next biggest multiple
+1437,Assumes the fractional index denotes the root and power the other way around
+88,Believes parallelogram is the term used to describe two lines at right angles
+813,Believes parallel is the term used to describe two lines at right angles
+2453,Believes particular is the term used to describe two lines at right angles
+1230,Believes you cube the conversion factor when dealing with squared units
+1263,Does not understand the definition of a rational number when it is a surd
+874,Mistakes the place value column of hundred thousands with millions
+2327,Does not understand that a space can be used to separate the thousands column from the hundreds column
+2320,Subtracts rather than divides when scaling down in direct proportion problems
+901,Finds unit price but doesn't multiply up for number in question
+1995,Mixes up shortest and longest when ordering times
+1557,Has an incorrect assumption about the definition of a reciprocal
+1860,Believes a reciprocal graph can be a straight line
+36,Enlarges by the wrong centre of enlargement
+1726,Believes there is more than one line which passes through a given pair of points
+1656,Believes that one point is enough to specify a line
+1596,Has found the total as a percentage of the amount being asked
+2551,Believes range does not need units
+1222,Forgets the denominator in probability
+1145,"When adding column vectors, multiplies rather than adds"
+951,Only recognises the positive form of a quadratic graph
+1806,Only recognises the negative form of a quadratic graph
+1158,Believes you can go above an amount of money when finding how much of something you can buy
+533,Does not consider the variable when evaluating an expression that requires substitution.
+531,Thinks when finding a percentage you multiply by the percentage being asked
+2009,"Assumes they add all values in a worded problem, thereby not interpreting the problem correctly"
+1787,"When talking about money ""taken"" in a retail context, thinks that means take-away rather than add"
+694,Confuses cubic and quadratic graphs
+1460,Identifies second decimal place value when asked for the second significant figure
+1420,"Believes that when eliminating a variable, regardless of the signs of the terms with matching coefficients, we subtract the equations"
+893,"Believes when changing an improper fraction to a mixed number you divide the numerator by 10, regardless of the denominator"
+1492,Believes the whole and remainder are the other way when changing an improper fraction to a mixed number
+20,Believes the number of wholes in a mixed number multiplies by the fraction part
+737,Thinks there are 30 minutes in a hour
+307,"When using Pythagoras to find the height of an isosceles triangle, uses the whole base instead of half"
+2473,Has cubed the base number and the power
+1921,Does not understand laws of indices
+364,Thinks they just remove the decimal point when converting a decimal to a percentage
+2241,Confuses triangular prism with pyramid
+9,Thinks there are 180 degrees in a full turn
+1278,Believes the subscript in iteration notation is the value to be substituted
+1418,"When the dividend is a mixed number and the divisor is an integer, thinks they only perform the calculation with the integers."
+983,"When the dividend is a mixed number and the divisor is an integer, thinks they only divide the fraction by the integer."
+1373,Does not recognise a unit of time
+350,Forgets to carry the tens when doing column multiplication
+1334,Tries to multiply within place value columns during column multiplication
+1135,"When subtracting a negative number, adds the absolute values and then writes the answer with a negative sign"
+1790,Does not know the correct notation for labelling a side length
+829,Estimates angle rather than calculating
+1610,Misunderstands the concept of common factors in algebra
+1516,Performs addition ahead of any other operation
+469,Believes the position of a sequence cannot be an integer
+1354,Does not know how to calculate the position of a term in a sequence
+1082,"When multiplying with negative numbers, assumes any negative sign can be ignored"
+715,Removes the common denominator when making equivalent algebraic fractions
+2187,"When multiplying a decimal less than 1 by an integer, gives an answer 100 times smaller than it should be"
+1257,Assumes a 1/4 of a whole is 25
+1963,Performs subtraction right to left if priority order means doing a calculation to the right first
+1932,Counts partial symbols as if they were whole on pictograms
+503,Ignores partial symbols on pictograms
+6,Can identify the multiplier used to form an equivalent fraction but does not apply to the numerator
+1440,Believes 180 degrees is an obtuse angle
+2239,Thinks there are 50 weeks in a year
+1800,Believes multiplying two positives gives a negative answer
+604,Gives probability as an integer instead of a fraction
+909,Mixes up squaring with dividing by 2
+158,"Believes addition comes before indices, in orders of operation"
+1444,Does not understand that the negative outside the bracket means answer will be negative
+572,Writes repeated letters instead of using index form of a variable
+1175,Uses base instead of height as h in area of a trapezium formula
+1779,Does not recognise that a shape translated would not change orientation
+821,Mistakes rotations for translations
+181,Assumes a ratio is part to part instead of part to whole
+2368,Converts a fraction to a percentage by placing a decimal point between the numerator and denominator
+664,"Believes -a is always smaller than a, ignoring the possibility that a is negative"
+1363,Uses 2 letters to describe an angle
+1864,Does not realise that the order is important in a ratio
+210,Thinks the term in a sequence is double the position value
+1793,Does not count end number when counting
+2351,Believes to find the angle for a pie chart sector you calculate 360 divided by the frequency of that sector
+1846,Is not able to spot a proportional relationship pictorially unless they are laid out in groups
+1959,Does not know that a solid is a 3D shape
+1083,Does not know the meaning of uniform cross section
+185,Thinks a positive y value in a column vector means to move down rather than up 
+1663,Thinks halving is the same as multiplying by 2
+278,Believes a power of 2 has no impact on its value
+1099,Believes gradient at a point = y coordinate/x coordinate
+2263,Does not understand the root power of 4
+782,Mixes up quantitative and qualitative data types
+1327,Does not know the meaning of attribute data
+1845,"When multiplying involving a multiple of 10, just multiplies the digits and ignores the zeros "
+2508,Thinks x = ? is the y axis
+26,Thinks x = ? or y = ? is y = x
+2443,Thinks y = ? is the x axis
+2547,Multiplies instead of divides when division is written as a fraction
+2520,Believes the fraction line represents addition
+493,Thinks you add the number of wholes to the numerator when converting a mixed number to an improper fraction.
+1431,"Believes you add the whole to the numerators, ignoring denominators, when adding a mixed number to a proper fraction with the same denominator."
+315,Has not realised that the answer may be changed by the insertion of brackets
+260,Thinks cubing a number means adding 3 to that number
+600,Thinks a horizontal line on a distance time graph means a distance of 0
+1598,Believes the solution to an equation with matching coefficients of variables on both sides will always be 0
+1302,"In ratio question where the difference between the sides is given, uses that as one part without dividing"
+169,"When subtracting a fraction from a mixed number, assumes they just subtract the numerator from the integer of the mixed number"
+1166,"When subtracting a fraction from a mixed number, assumes they subtract the numerator from the integer and the numerator of the mixed number"
+1871,"Thinks factorising a quadratic means factorising the variable terms into a single bracket, and leaving out the constant"
+2510,Only reads the percentage symbol as applying to the units digit
+1469,Does not recognise when simplifying a fraction may be helpful
+588,Thinks 10l = 1 cubic metre
+338,Believes only straight lines count as edges on 3D shapes
+1608,Believes parts of a 3D diagram that look straight class as edges
+1624,Multiplies the number of whole units by the numerator when converting from a mixed number to an improper fraction
+1261,Thinks if you multiply a fraction by itself you get a whole
+2098,Multiplies all terms together when simplifying an expression
+1696,Heads towards zero when subtracting from a negative
+326,"When converting fractions to ratios, puts the other side of the ratio as the total of the numerator and denominator"
+1048,"When adding/subtracting fractions, adds/subtracts the denominators and multiplies the numerators"
+1985,Has multiplied base by slant height and perpendicular height to find area of a triangle
+1333,Halves base but still divides product by 2 when finding area of a triangle
+2499,Thinks the interior angles of any polygon add up to 180 degrees
+940,When writing a function as a function machine confuses the input and the output.
+251,"Includes a data point with the value, when asked to find the number of data points below a value"
+1669,"In 3 letter angle notation, gives a wider angle that contains the shaded angle"
+2212,Mixes up smallest and largest when ordering fractions
+296,Ordered fractions by comparing denominators rather than using equivalent fractions.
+1667,When comparing unit fractions believes that fractions with larger denominators are greater in size.
+1595,Believes the first multiple of a is 2a
+1602,Believes the sum of change in x and change in y gives the distance between points
+2415,Thinks that square root is found by dividing by 4
+2210,Ignores colours or design on shape when looking for symmetry
+1902,Gets the minutes and hours the wrong way around
+2297,Believes total frequency in a table is found by counting rows
+507,Believes the total frequency is the overall total in a grouped table
+2343,Believes total frequency in a table is given by the sum of the categories given
+2191,When writing a number as a percentage of another number gets them the wrong way around
+1703,When using a 180 degree protractor to measure reflex angles gives the value of the acute or obtuse angle that is a complement to 360
+2535,Does not add on 180 degrees when using a protractor to measure a reflex angle
+2380,Believes f(x) - a translates the function up a units
+362,Believes f(x) - a translates the function right a units
+262,Believes the intersection in a prime factor venn diagram does not contribute to the size of the number represented by a circle 
+2003,Believes multiply all numbers in a prime factor venn diagram gives the value of one sets number
+1861,Rounds to nearest 50 not 20
+1163,Does not understand you can round to numbers other than powers of 10
+2214,"Thinks that in the equation y=a, a is the gradient"
+1534,Thinks that doubling and then doubling again is not the same as multiplying by 4
+2114,"When completing the square, believes a coefficient of x^2 does not affect the value of the constant inside the bracket"
+1870,Thinks there are 10000mm in a metre
+229,Does not account for scale on diagram
+2226,Incorrect use of scale on a diagram
+2020,"When simplifying surds, does not use the largest square number to simplify"
+2112,Does not understand how to find percentages of an amount
+247,Found the percentage but added it to 100%
+2199,Divides by the numerator and multiplies by the denominator when finding a fraction of an amount
+1993,Believes total in a grouped table is found by counting rows
+2111,"Believes you do not include an ""other"" category when finding a total frequency"
+1850,Mixes up square rooting and fourth rooting
+376,Unable to equate a division and multiplication to a single division
+976,"Thinks a Fibonacci sequence must start with 1, 1"
+89,Thinks it can't be called a sequence with a repeated number at the start
+2081,Thinks there are 7 hours in 1 day
+2401,Answers as if there are 60 hours in a day
+922,Believes we can only take the square root of a perfect square
+1024,When solving an equation thinks they add when in fact they need to multiply
+2208,"When writing ratio, writes total as one side"
+1237,Believes that 1 part of a bar model will always have a value of 1
+653,Does not have when calculating the area of a triangle
+467,Treats zero as a ten when subtracting
+19,"When multiplying a surd by an integer, adds the integer to the number under the surd"
+2082,"When multiplying a surd by an integer, multiplies the integer with the number under the surd"
+754,Does not recognise that an integer multiplied by a surd can be simplified
+183,Has confused cube numbers with prime numbers
+780,Believes the constant only gives the y-intercept for linear graphs
+654,Believes an interior angle in a regular polygon can be found using 180(n+2)/n
+1907,Believes an interior angle in a regular polygon can be found using 360 subtract (180 over number of sides)
+1896,"When finding the gradient from the equation of a line in the form ax + by = c, believes b/a is the gradient"
+567,"When doing operations with decimals, ignores significant zeros after the decimal point"
+2152,Believes every number is the mode when you have data with no mode
+1550,Believes interior angles are outside a shape
+730,Ends up £1 out when dealing with change in money
+2189,Believes isosceles triangles cannot have right angles
+954,"Confuses adding 3 with cubing, in algebra"
+1357,Thinks only labelled dimensions need to be included when calculating the perimeter
+2135,Thinks positive or negative sign affects the term before it
+1702,Does not know the 9 timestable
+2150,Does not know the 6 timestable
+1308,"Thinks tables of values are symmetrical about (0,0)"
+902,Thinks 1 squared is 2
+623,Assumes the denominator is divided by the numerator
+1151,Believes they can round when converting units
+451,Does not recognise parallel lines angle rules applied inside a shape
+785,Confuses co-interior and alternate angles
+280,Describes lines when asked to describe angles
+946,Believes a proportion of a whole is whole/part not part/whole
+1329,Believes it is not possible to calculate the frequency for a pie chart sector despite being given enough information to do so
+712,Believes you can not take away a larger number from a smaller one
+263,"Does not understand direction of North East, North West, South East and South West cardinal points"
+1040,Does not measure bearing clockwise from the north line
+1614,Believes factors of algebraic terms/expressions will only be numbers
+1524,Believes adding b to any integer gives a multiple of b
+845,Believes they can find the nth term based on the first term only
+2027,Believes that an + b is still a multiple of a
+2238,Divides rather than multiplies when scaling up in direct proportion problems
+1618,Mixes up cubing and multiplying by 3
+138,"When solving a problem using written division (bus-stop method), does the calculation from right to left"
+1140,"When simplifying surds, adds the number on the outside of the surd to the number under the surd"
+1640,Believes the centre of rotation is always the origin
+1862,Performs addition ahead of division
+374,Thinks a hexagon has 8 sides.
+1767,Does not realise that a pictogram needs a title or question
+252,Does not think 'other' is an acceptable category for data
+426,Believes corresponding angles sum to 90 degrees
+709,Adds instead of subtracts when using an area model for multiplication
+1295,"When finding part of the area of a shape, subtracts from the side length before multiplying but still subtracts the unshaded area too."
+1560,Mistakes the number of rows for the total frequency in a frequency table
+2166,Adds up the variable column when asked for total frequency
+1895,Does not realise that all circles are similar
+16,Believes that graphs of inverse proportion meet the axes
+1384,"When reading decimals on a number line, assumes each dash is 0.5"
+542,Believes constructing a perpendicular gives an angle of 60 degrees
+1017,Does not understand how to solve linear two step equations
+109,Thinks a factor of the final digit is also a factor of the whole number
+1399,Fails to identify any rotational symmetry 
+455,Subtracts 1 rather than 2 from the number of sides when finding the sum of interior angles
+1426,Thinks rule for calculating interior angles only applies to regular polygons
+117,"Believes that in completed square form, they need to change the signs of both values to get the turning point"
+895,Believes a line of reflection must be touching the original shape
+58,"When dividing, confuses the remainder with the quotient"
+745,Confuses midpoint and distance between two points
+1386,Confuses the method for finding the gradient and length of a line segment
+1511,Does not understand that the probability of something not happening is 1 minus the probability of it happening
+1283,Believes a polygon can have curved sides
+270,Thinks the term polygons only applies to shapes with more than 3 sides
+1049,Misunderstands the process of making a variable the subject of an equation
+1674,Believes distance is the area under the graph on a displacement time graph
+119,Believes distance = speed + time
+1436,Confuses cubic and exponential graphs
+76,Confuses quadratic and exponential graphs
+1946,Believes numbers are divisible by numbers which sum to their factors
+573,Thinks numbers are divisible by all multiples of their factors
+1490,Writes fraction rather than fraction of amount
+1260,Gives number of sections of pie chart rather than the amount it represents
+2204,Believes the area of a rectangle is calculated by length add width
+1886,Does not understand that base angles in an isosceles are equal
+842,Confuses the calculations for HCF and LCM
+1950,forgets to include the common factors when calculating the lowest common multiple
+2515,Rounds too early in calculation 
+1427,Believes cube numbers are just multiples of 3
+408,"When multiplying fractions, multiplies both the numerator and denominator"
+2573,Believes the solution to mx + c = a is the y intercept of y = mx +c
+626,Thinks the difference between a positive number and a negative number is equal to the positive number
+2006,Believes the mean is total divided by sum of categories given
+1470,"Does not know the meaning of the word ""product"""
+1356,Confuses the use of LCM and HCF in real life examples 
+1782,Does not recognise miles as a unit of length
+45,"When asked for the value of a digit, gives an answer 10 times too big"
+2402,"When asked for the value of a digit, gives an answer 10 times too small"
+2485,"Thinks that times just before midnight are ""am"" times"
+1636,Believes nth term rule can be given in words
+1858,Does not compensate when subtracting
+666,Thinks grams and tonnes are the same
+2072,Confuses formulae for area of triangle and area of rectangle
+14,Does not understand how to create a multiple of an equation
+1484,Thinks 1l = 10 000 cubic centimetres
+1836,Believes lines of symmetry must be vertical or horizontal
+1071,Confuses obtuse and acute angles
+1691,Believes the solution of mx + c = 0 is x =0
+1776,Believes they solve mx + c = 0 by substituting in x = 0
+244,Believes the solution of mx + c = 0 is x = m
+1763,Confuses arc and diameter
+1661,Confuses circumference and diameter
+2162,"When rounding to decimal places and the only digits after the decimal point will be zeros, just gives the integer as the answer."
+2002,"When dividing a decimal by an integer, divides by the wrong power of 10 when reinserting the decimal."
+708,Believes switching the x and y variables in a linear equation gives a perpendicular line
+1449,Believes rounding numbers down would give an overestimate
+762,Chooses an example when asked for a counter-example
+852,Thinks there are 100 mg in a gram
+213,Thinks there are 10 mg in a gram
+2038,Believes a common denominator can only be the lowest common multiple
+2128,Believes a common denominator must always be the two denominators multiplied together
+1022,Believes you multiply matching bases when carrying out a multiplication
+1517,Finds unit amount but doesn't multiply up
+1193,Multiplies up without finding unit amount
+2476,Does not write the place holder zero when doing column multiplication
+195,"When solving an equation, thinks the divisor and dividend are the opposite way around"
+1231,Does not know that 7 and -7 are different
+757,Adds rather than multiplies when asked for a product
+1599,Adds rather than divides when answering worded problems
+1270,Divides by 10 instead of 100 when converting a percentage to a decimal 
+1223,Uses numerators to convert fractions to ratio despite different denominators
+2180,Divides instead of multiplies when calculating total frequency
+932,Adds instead of multiplies when calculating total frequency
+2501,Subtracts rather than multiplies when calculating total frequency
+223,Mixes up cubing with multiplying by 10
+988,"When converting a percentage to a decimal, just writes all the digits after a decimal point."
+2414,Believes a variable must remain unknown and cannot be substituted with a value
+1173,Uses the numerator of an improper fraction as the denominator of the equivalent mixed number
+2105,Has used slant height and base to find area rather than perpendicular height and base
+1204,Multiplied by 100 rather than divided by 100
+355,Thinks the interior angle of a regular polygon is 10n
+35,Believes you add 2 instead of subtracting 2 to the numbers of sides when finding total interior angles
+927,Assumes that opposite angles in a quadrilateral sum to 180 degrees
+2432,Does not know the properties of a parallelogram
+353,Does not recognise when one part of a fraction is the negative of the other
+2388,Uses formula for area of a parallelogram when finding the area of a trapezium
+2197,Thinks you multiply parallel sides to find the area of a trapezium
+305,Does not know the formula for area of a trapezium
+1443,"Thinks that when raising a variable with a coefficient to a power, only the coefficient is affected by the power"
+2217,Thinks subtracting a negative makes your answer smaller
+637,Does not recognise the corresponding sides in similar shapes or enlargements
+1464,"When solving simultaneous equations graphically, they think the solutions are the y-intercepts"
+1266,"When solving simultaneous equations, thinks they can ignore one of the variables"
+1957,"Reads 10,000 as 1000"
+2149,Converted seconds to minutes instead of seconds to hours
+1718,Thinks there are 100 seconds in an hour
+508,Thinks there are 1000 seconds in an hour
+783,Thinks the sign of solutions in a quadratic equation is always the same as the constant term
+471,Believes that the solution to ax + b = 0 is x = -a/b
+464,Believes that you are unable to calculate the sum of the interior angles of an irregular polygon given the number of sides
+1738,Uses sin when cos is required
+501,Uses tan when cos is required
+1394,Identifies the first term rather than the next term in a sequence
+1262,"Believes that they can fully factorise an expression by taking out any common factor, not just the HCF"
+1666,"When factorising into single brackets, factorises the first term correctly but subtracts the number outside the bracket with the second term in the expression to find the second term in the bracket"
+1914,Converts fraction to percentage by multiplying the denominator by 10
+3,"Thinks a quadratic without a non variable term, can not be factorised"
+2465,Believes reflection in y = -x changes sign of x coordinate only
+1541,Believes reflection in y = -x changes sign of y coordinate only
+409,Identifies first decimal place value when asked for first significant figure
+2139,"When finding the nth term rule for a quadratic sequence, believes that the coefficient of n is half the second difference"
+717,Believes the amount given is for the whole rather than a part
+2314,Multiplies instead of divides to find one part given the total
+1144,"Believes the equation for a horizontal line is in the form xy = a, where a is the y intercept"
+2022,"
+Has incorrect belief about the meaning of ""expression"""
+1311,"
+Has incorrect belief about the meaning of ""formula"""
+1757,Lists outcomes rather than counts how many outcomes
+864,Reads 0 on protractor as size of angle when angle is not in usual orientation
+872,Thinks angles can only be measured when one line is horizontal
+519,"When asked for factors of an algebraic expression, thinks a term will be a factor"
+84,Believes greater than/less than symbols include end values
+765,Thinks there are 10kg in a tonne
+663,Forgotten placeholders when rounding to significant figures
+602,"Thinks multiplying two or more negative numbers together always gives a positive answer, regardless of how many negative numbers there are in the sum"
+447,Believes dividing by 0.1 is the same as dividing by 10
+345,Has treated this like an addition problem and added the ones column.
+60,"Has written the value of the 'ones' column as the answer, withiut using the numbers in the question."
+1571,When writing standard form does not give the correct power of ten
+1611,Does not understand that coordinates can be decimals
+37,Rounded to wrong degree of accuracy (2sf not 1sf)
+1819,Confuses order of sides in a trigonometric ratio
+404,Uses cos when sin is required
+2466,Uses tan when sin is required
+1274,Subtracts simultaneous equations when addition is required
+1123,Subtracts rather than dividing to find unit price
+1635,Believes gradient is the difference between the change in x and the change in y
+439,Believes gradient = change in y multiplied by change in x
+1694,Believes that a discriminant of 0 means there are no real solutions
+1547,Has forgotten to convert cm to m
+751,Believes you add the terms together when multiplying like terms.
+611,"When two digits sum to 10 or more during addition of decimals, does not carry across decimal point to preceding digit."
+2285,"In a function machine, confuses the first operation and the input"
+2374,Believes a quarter of 2 is 0.25
+100,Believes angles in a triangle sum to 360 degrees
+2516,Thinks 3-letter angle notation has to use the nearest vertex on each side of the angle
+2554,Thinks the diagonal of a square is the same length as the side of the square
+1671,Does not know how to find area by counting squares on a grid
+318,"Assumes that converting a decimal percentage to a fraction, they can just convert the decimal to a fraction, instead of writing the decimal over 100."
+1759,Assumes decimal point can be ignored when given a decimal percentage to convert to a fraction
+764,Confuses octagon and pentagon
+948,Believes squaring is the same as adding two
+937,"When adding or subtracting surds, simplifies the surds correctly but puts the digits in the answer the wrong way round"
+349,"When adding surds, just multiplies the numbers under the surd rather than first trying to simplifying to find like surds"
+1604,Thinks there are 10 centimetres in 1 mm.
+629,Thinks there are 1000mm in a centimetre
+1539,Does not consider that all three angles in a triangle sum to 180 degrees
+1851,Does not know the properties of an isosceles triangle
+366,Does not know the meaning of the identity symbol
+2309,Thinks they can just give the probability of the first event for a combined probability
+1259,Believes division is sometimes commutative 
+2077,"Believes that when eliminating a variable, if the signs of the terms with matching coefficients are different, we subtract the equations."
+2550,Thinks there are 10m in a km
+1481,"When describing a translation, miscounts when crossing an axis"
+1142,"When converting from an improper fraction to a mixed number, adds on the part left to make the whole, rather than subtracting it"
+984,Writes the numerator of an improper fraction as the number of wholes when converting to a mixed number
+1033,Does not know that you can have a decimal percentage
+1989,Believes a coordinate cannot be placed beyond the bounds of the grid shown
+972,Does not realise that if the horizontal and vertical measurements of a diagonal line segment switch it remains the same size
+1467,Believes the power button writes a fraction
+1987,"When completing the square in the form (x - a)^2 + b, believes b = the original constant"
+1994,"When completing the square in the form (x - a)^2 + b, believes b = -a^2 regardless of the original constant"
+1814,Confusion over whether multiplication or division is the correct way to solve the problem.
+724,Thinks the denominator in a combined probablity will be the same as the denominator in the probability of the first event.
+1196,"When solving an equation where there is a negative sign in front of the variable at the final stage, believes they can ignore it and treat it as if it's positive"
+2145,Believes an upward slope on a distance-time graph means travelling back towards the starting point.
+1945,Believes an upward slope on a distance-time graph means the movement has stopped
+1813,Estimates the length of diagonal lines rather than working out based on horizontal and vertical measurements
+591,Does not believe the length of a diagonal line can be worked out based on horizontal and vertical measurements
+1398,Divided by 100 rather than 1000
+424,Adds 3 decimal places rather than moving 3 places
+1831,Does not know the properties of a cylinder
+1893,"Believes the y intercept is given by the difference between the x and y coordinates of any point on the line, not just the point (0, c) "
+2525,"When dividing decimals, divides rather than multiplies when reinserting the decimal."
+2045,Writes a variable to the power of n as nx
+2543,"Believes the frequency represented by a pie chart sector can be judged visually, without considering the total it represents"
+815,Counts in the wrong direction on a number line
+1633,When asked to rotate by 180 degrees rotates by 90 degrees
+2572,Rotates by the wrong center of rotation (not including the origin)
+1657,Doubles the diameter when finding the radius
+2221,Has made an order of operations mistake when writing a formula from a given situation
+1854,Confuses tangent and radius
+649,"Beileves you can use the full length when finding an area of part of a composite shape, when part of the length is needed"
+1641,"When collecting like terms, only simplifies when there is an addition"
+1752,Believes the arrows for parallel lines mean equal length
+2357,Thinks sign for parallel lines just means opposite
+900,Believes the constant gives the y-intercept even when a line is not written in the form y = mx + c
+639,Believes unrelated acute/obtuse angles in a diagram are supplementary
+287,Thinks y = ? is a vertical line through ?
+875,Believes vertically opposite angles sum to 360 degrees
+858,Believes splitting a multiplication using the distributive property is the same as splitting it into factors
+1058,"Believes that in the nth term of a descending sequence, b is the difference between the term and the positive multiple of n"
+232,"When dividing by a fraction, switches to multiplication without also using the reciprocal"
+1433,"When factorising into single brackets, only factors out the numerical values and forgets to factorise possible variables"
+1102,Believes that addition should be used when finding the difference between two values on a time series graph
+2160,"In repeated percentage change, believes the second change is only a percentage of the first change, without including the original"
+924,Believes to find the proportion of a pie chart sector you do frequency/sum of other frequencies rather than frequency/overall total
+1307,Finds the degrees for 1 person rather than the required number of people for a pie chart sector
+49,Doesn't believe that when you divide by 0 the answer will always be 0
+2100,Divides rather than multiplies when answering worded problems
+1972,Subtracts rather than multiplies when answering worded problems
+1063,Adds rather than multiplies when asked for a total
+1794,Does not recognise that choosing 2 items at once means the first item does not get replaced in a probability question
+2110,Identifies a common multiple of two numbers when asked to consider a common multiple of three numbers
+2260,Identifies a multiple of a number but not a common multiple of a group of numbers
+1885,Thinks a power raised to a power leads to addition of the powers
+201,Believes substituting the starting value into an iteration formula immediately gives the solution
+1823,"When there are two modes, finds the mean of these values and gives that as the mode"
+2069,"Believes if there are two numbers with the same frequency, there isn't a mode"
+2117,Thinks that all angles anywhere along a straight line add to 180
+2161,Confuses octagon and hexagon
+2291,"When solving simultaneous equations, thinks they can't multiply each equation by a different number"
+923,Thinks index notation represents repeated addition rather than repeated multiplication
+997,Subtracts instead of multiplies
+1268,"When solving simultaneous equations, thinks you only transform the algebraic terms, rather than the whole equation."
+614,"When solving simultaneous equations, thinks you only transform the term that is being eliminated, rather than the whole equation."
+1030,When dividing numbers with the same base divides the base numbers and the powers
+812,When dividing numbers with the same base correctly subtracts the powers but divides the base numbers.
+633,Does not understand how to subtract algebraic fractions
+814,Confuses circumference and radius
+2193,Confuses tangent and circumference
+1229,Confuses chord and circumference
+1036,"Only gives 1 value of x for a given value of y, when reading from a parabolic graph"
+1912,Gives the probability out of the number of non-successes rather than the total
+289,Writes the numerator and the denominator the wrong way round in a probability
+1832,Confuses linear and reciprocal graphs
+1235,"When completing the square in the form (x - a)^2 + b, believes b is the difference between a and the constant of the original quadratic"
+688,Confuses the factorised form of repeated roots and the difference of 2 squares
+1075,When asked to add fractions uses the method for multiplying fractions instead.
+2307,Thinks you can divide the variables and the numerical values by different numbers when simplifying an algebraic fraction
+466,"When calculating with numbers in standard form, just applies the operation to the number and the power separately"
+383,confuses cubic and reciprocal graphs
+756,Believes unit fractions with a difference of 1 in the denominator have no other fractions between them
+1415,Assumes every dash on a scale represents an increase of 1
+2484,"When converting from an improper fraction to a mixed number, just writes the tens digit as the number of wholes"
+0,Does not know that angles in a triangle sum to 180 degrees
+279,Mixes up square rooting and cube rooting
+1841,Thinks the number of wholes in a mixed number represents the tens from the numerator of an improper fraction
+1479,Thinks you multiply by the numerator and add the denominator when converting a mixed number to an improper fraction
+1304,Confuses lines of the form y = a and y= ax
+1167,Does not recognise millimetres as a unit of length
+719,Does not recognise feet (ft) as a unit of length
+735,"In ratio where total is given, treats that as one part without dividing"
+1371,"When drawing bar diagram for ratio, shows the total as the difference between parts"
+2428,"When drawing bar diagram for ratio, shows the total amount as the total of one side"
+1218,Multiplies the numerators when adding fractions with a common denominator
+202,"When asked to add fractions, multiplies instead"
+2321,does not know the meaning of the word digit
+1810,Thinks x = 1 at the x axis
+285,Lines up the digits incorrectly when doing an addition involving two numbers with a different amount of digits
+628,"When factorising, finds a factor that goes into only the first term of the expression"
+1748,"Believes that when a shape touches the mirror line, all of its vertices will stay the same when reflected"
+101,Believes that reflection always switches the x and y coordinates
+2319,subtracts the highest from the lowest when calculating the range
+2530,Subtracts instead of adds when using inverse operations to solve an equation
+1187,Does not realise that gradient represents rate of change
+176,Believes that a reciprocal equation is defined when the denominator is 0
+871,Does not include brackets when attempting to multiply an expression
+1032,Confuses cube rooting with squaring a number
+2181,Performs addition ahead of subtraction
+2470,Believes the mode is the most common frequency rather than the highest frequency
+2269,"When finding the distance between coordinates, includes the starting number"
+1483,Believes vertically opposite angles sum to 90 degrees
+66,Repeats the digits three times when cubing a number
+587,"Thinks that when adding decimals with a different number of decimal places, you should line up the digits to the right "
+441,Does not recognise a unit of volume
+2140,Believes division is carried out before a power
+981,Believes inequalities cannot be combined
+1256,Believes the difference of 2 squares method of factorising also works for the addition of 2 squares
+796,Draws both angles at the same end of the line when constructing a triangle
+2288,"When multiplying decimals, does not realize that the order and position of the digits (relative to each other) has to remain constant."
+2175,"Mixes up squaring and multiplying by 2 or doubling, and not square rooted"
+2092,Error finding percentage value after finding 1%
+211,Believes displacement continues to increase even when returning to starting point
+205,Thinks there are 1000mm in a km
+526,Thinks there are 10000mm in a km
+2333,Thinks there are 10 million mm in 1 km
+1118,Thinks the smallest bar in a bar chart is the mode
+1146,"When solving simultaneous equations, believes the terms must be of opposite signs in order to be eliminated."
+370,"When solving simultaneous equations, believes the terms must have the same sign in order to be eliminated."
+2148,"When simplifying, thinks they write 0 in front of a negative number in the final answer, instead of just writing the negative number"
+1172,Thinks any 2 values multiplied together can be denoted with a squared symbol
+1996,Only includes fully shaded squares when counting area
+248,Believes a pie chart makes 360% not 360 degrees
+1376,Thinks that a larger shaded area represents a larger fraction
+1212,Thinks a greater number of shaded parts represents a greater fraction
+152,"Believes that the smaller a divisor is, the smaller the answer will be"
+643,Think 1km = 1 mile
+1124,When ordering numbers in standard form just looks at the decimal without multiplying by a power of 10
+793,Forgets to subtract sum of angles we know from 180 to find missing angle in a triangle
+898,Thinks x = 0 is the x axis
+1422,Does not recognise km as a unit of length 
+1725,"Does not recognise inches ("") as a unit of length"
+1119,Does not interpret the correct order of operations in a fraction when there is an addition on the numerator
+1866,Confuses additive and multiplicative relationships
+449,"Does not realise we can scale the perimeter as a whole, rather than finding individual side lengths"
+879,Thinks you apply one inverse operation to one term and the other inverse operation to the other term
+297,Forgets you need a compass to draw arcs
+2157,"Believes that when eliminating a variable, if the signs of the terms with matching coefficients are the same, we do the operation matching the sign (+ if positive, - if negative)"
+303,"Believes that when eliminating a variable, if the signs of the terms with matching coefficients are the same, we do the operation inverse to the sign (- if positive, + if negative)"
+1749,"When dividing fractions, does the reciprocal of both fractions"
+2581,"When factorising a quadratic with a coefficient of x squared, believes the signs and/or positions of the constants are interchangeable"
+1165,Rounds to the nearest integer rather than one significant figure
+1591,"Rounds to the nearest hundredth, rather than one significant figure"
+2450,Does not half sum of parallel sides when finding area of a trapezium
+977,Confuses the sign for parallel lines as being dashes
+2289,Confuses the signs for straight lines as being dashes
+1340,Misunderstands dashed lines as being the midpoint
+1840,Thinks the fraction button on a calculator converts fractions to decimals
+136,Does not recognise a reciprocal equation
+127,Thinks the fraction to decimal conversion button on a calculator can be used to raise to a power
+1760,"Reads the position of a number from the space between the line marked, rather than the line marked"
+2049,Believes a gap of 2 is a gap of 1 on a numberline
+1031,Believes raising a negative number to an odd power will give a positive answer
+668,Writes four symbols after rather than one before in Roman numerals
+1553,Thinks that we can use O as zero for place value in Roman numerals
+382,Does not know how to combine different symbols in Roman numerals
+1110,Does not think that -n + n = 0
+1004,Thinks that a number in front of a bracket means divide
+987,Believes that the order of a worded calculation should be changed to follow BIDMAS 
+468,Believes you find the frequency for a pie chart sector by calculating its angle divided by the total frequency
+402,Does not know the definition of a cone
+816,Only counts visible faces
+1215,"Includes a data point with the value, when asked to find the number of data points above a value"
+1455,Calculates circumference when asked for area
+2286,Believes the length of the line in a velocity time graph gives the distance (rather than the area underneath that line).
+1116,Multiplies coefficients and letters separately and writes as an addition
+137,Does not know the meaning of the word identity 
+511,Ignores the negative sign when thinking about the value of a term
+194,"Believes the sides of a square must be horizontal and vertical, not diagonal"
+495,Thinks converting an integer to a fraction means both the numerator and denominator are equal
+589,Believes extreme values can affect the median
+1992,Believes extreme values can affect the mode
+1126,Believes the mean is always representative
+2424,Believes a line segment can be opposite an axis
+2122,Thinks two letters next to each other is a division
+1875,Has used a subtraction sign to represent division
+914,Finds 10% of an amount rather than the percentage being asked
+1710,"When finding a percentage of an amount, assumes they divide the percentage by 10, but not the amount, before multiplying"
+515,Does not know a rectangle is a type of parallelogram 
+1041,Does not know a rhombus is a type of parallelogram 
+994,"When completing the square in the form (x - a)^2 + b, believes b = a^2 + the original constant"
+2349,Forgets that a number divided by itself is 1
+832,Believes that a fraction with equal numerator and denominator cancels to 0
+1203,Believes that to find an angle for a pie chart sector you divide the total frequency by 360 and multiply by its frequency
+1673,Multiplied by 1000 instead of 100
+1320,Multiplied by 10 rather than 100
+1695,Thinks you add all the bricks in a row in an addition pyramid.
+1586,"When asked to read a value from a graph, thinks they give the corresponding value on the other axis, rather than reading from the graph"
+171,"When simplifying surds, does not multiply the number in front of the surd with the square root of the largest square number that has been removed from the surd"
+1676,"When adding or subtracting surds, does not simplify the surd before adding the numbers in front of the surd"
+1929,Does not understand the concept of inverse operations in algebra
+1442,Think cross section of a prism is the biggest face
+239,Finds a common multiple but not the lowest common multiple
+2364,Believes all possible outcomes must have equal probability
+1209,Believes a mixed number can contain an improper fraction
+1613,Believes constructing a triangle with given SAS requires a compass
+794,Rounds up rather than to one significant figure
+652,Mixes up the numerator and denominator when writing a division as a fraction
+2107,"Student thinks that negative decimals behave the same as positive decimals when positioning a decimal between two consecutive negative integers, placing the decimal with a greater absolute value to the right. "
+1018,Thinks the fraction 1/n can express sharing n items between any number of people
+1293,Identifies how much repeated use of the term-to-term rule changes a number but does not apply to the sequence
+153,"When dividing decimals with the same number of decimal places as each other, assumes the answer also has the same number of decimal places"
+1733,Confuses tangent and chord
+1741,Confuses diameter and chord
+1367,Thinks a dashed line marking a region means the line is included
+876,Believes squaring a negative number just changes the sign
+454,Thinks measures of area must end in squared
+2125,"When multiplying a multiple of 10, just multiplies the non-zero digits"
+1577,Adds instead of multiplies when using grid method
+2399,"when dividing a fraction by an integer, both multiplies the denominator and divides the denominator"
+2447,Believes the reciprocal button writes a fraction
+1609,Believes the decimal point button writes a fraction
+1153,Believes they can ignore the coefficient when expanding double brackets 
+2225,Thinks signs are interchangeable when adding or subtracting positive and negative numbers
+2565,Confuses the hundreds and thousands place value columns
+2311,Divides rather than adds when answering worded problems
+833,"When calculating perimeter, multiplies instead of adds"
+935,Fails to use the properties of simple shapes to work out missing lengths
+890,Thinks they had to give the new amount rather than the total percentage that the original has been increased by.
+27,Believes squaring a fraction requires you to double both parts
+2491,"Thinks that in the equation x=a, a is the gradient"
+989,Does not understand that area under a speed time graph gives distance because distance = speed x time
+1552,"Believes term to term rule is applied to position number, not previous term"
+804,Believes percentages cannot be converted into fractions
+635,Believes you cannot find the angle size in a pie chart when given its percentage value
+2011,"When simplifying surds, leaves the square root of the biggest square number under the root and puts the other number on the outside"
+578,Does not recognise when a surd can be simplified
+1796,Thinks a positive x value in a column vector means to move left rather than right
+566,Thinks the inverse of subtraction is division
+773,Does not understand to find each interior angle of a regular polygon you divide the sum by the number of sides
+568,"When solving a problem that requires an inverse operation (e.g. missing number problems), does subtraction when division is required"
+2007,Believes the number of vertices on a 3D shape match those of the 2D cross section
+870,Only counts visible vertices
+2416,Finds the difference in a coordinate pair rather than the midpoint
+2103,Believes h in the formula for area of a trapezium stands for half the sum of the parallel sides
+2047,Believes infinite gradient is not possible in real life. 
+1428,"Does not understand the meaning of ""value"""
+242,Thinks the hundred thousands column is the ten thousands column
+1016,Confuses the hundreds and hundred thousands place value columns
+2090,Finds the area of the whole grid instead of the shaded shape
+496,"When subtracting decimals with a different number of decimals, subtracts one digit from more than one column"
+1113,"When substituting a value into a non-linear term with a coefficient, multiplies by the coefficient then calculates the power."
+64,Mixes up squaring and multiplying by 4
+393,Believes adding coordinates of endpoint and midpoint of a line will give the other endpoint
+820,Does not know that you can leave a fraction in improper form
+281,Thinks that if two lines do not intersect on a diagram then they will never intersect and are therefore parallel
+2317,"When asked for the next term in the sequence subtracts one from the last term given, despite the sequence not going down in ones."
+933,Does not know the meaning of corresponding
+962,Thinks 1 cubic metre = 1000 cubic centimetres
+2371,Believes a direct proportion graph is a horizontal line
+300,Believes a direct proportion graph does not have to start at the origin
+965,Adds the numerators when working out a combined probability
+621,Believes the negative of a positive squared (where there are no brackets) gives a positive answer
+2280,"Believes change in y for gradient is always calculated from the origin, regardless of the y-intercept of the line"
+284,Believes the gradient of a speed-time graph is the speed
+1559,Believes a downward slope on a speed-time graph shows positive acceleration
+866,Believes that the y intercept is where y = 0
+1642,"When adding roots, adds the numbers under the roots"
+524,Does not understand square root
+162,Uses first term as numerical part of nth term rule
+941,Does not recognise that subtracting a larger number from a smaller number will give a negative answer
+1224,Does not understand the diagram given in the question
+292,Converts fraction to percentage by putting % sign after the denominator
+400,Thinks multiplying a variable by a number is the same as raising that variable to the power of that number
+1114,Believes they can change the subject of a formula just by swapping two letters
+245,Does not realise that to maintain balance in an equation they must add or subtract the same amount from both sides
+2456,Finds the mode rather than the range
+1349,Does not include negative numbers when calculating a range
+1500,"When calculating a scale factor, thinks the division is the other way around."
+2442,"When calculating a scale factor, multiplies instead of dividing."
+1258,"When calculating a scale factor, thinks they need to subtract rather than divide."
+95,Does not know about the + notation for directions in rotations

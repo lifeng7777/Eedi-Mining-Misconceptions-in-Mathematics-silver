@@ -1,0 +1,305 @@
+QuestionId,ConstructId,ConstructName,SubjectId,SubjectName,CorrectAnswer,QuestionText,AnswerAText,AnswerBText,AnswerCText,AnswerDText,MisconceptionAId,MisconceptionBId,MisconceptionCId,MisconceptionDId
+1700,321,Divide two decimals with the same number of decimal places,224,Multiplying and Dividing with Decimals,D,\( 0.9 \div 0.3= \),\( 0.3 \),\( 9.3 \),\( 0.333 \ldots \),\( 3 \),153.0,,2359.0,
+1683,899,"Given a negative y value, find an x value in a table of values for lines in the form y = c - x ",257,Plotting Lines from Tables of Values,D,"This is a part of the table of values for the equation
+\[
+y=3-x
+\] ![\begin{tabular}{|l|l|}
+\hline\( x \) & \(\bigstar\)  \\
+\hline\( y \) & \( -9 \) \\
+\hline
+\end{tabular}
+
+]() What should replace the star?",\( 6 \),\( -6 \),\( -12 \),\( 12 \),,,1294.0,
+922,2099,Convert between cm³ and mm³,197,Volume and Capacity Units,C,\( 1 \mathrm{~cm}^{3} \) is the same as _______ \( \mathrm{mm}^{3} \),\( 10 \),\( 100 \),\( 1000 \),\( 10000 \),2514.0,2514.0,,
+275,306,Subtract decimals where the numbers involved have a different number of decimal places,223,Adding and Subtracting with Decimals,A,\( 50.09-0.1= \),\( 49.99 \),\( 50.99 \),\( 50.08 \),\( 38.98 \),,699.0,2346.0,
+416,703,Express pictorial representations of objects as a ratio,334,Writing Ratios,C,"Tom says for every one circle there are two squares 
+\(\bigcirc\bigcirc\bigcirc\)
+\(\square\;\square\;\square\;\square\;\square\;\square\) Katie says for every one circle there are two squares
+\(\square\quad\square\quad\square\quad\square\quad\square\)
+\(\bigcirc\bigcirc\bigcirc\bigcirc\bigcirc\)
+\(\square\quad\square\quad\square\quad\square\quad\square\) Who is correct?","Only
+Tom",Only Katie,Both Tom and Katie,Neither is correct,,1846.0,,1150.0
+1654,1556,"Given a positive x value, find the corresponding y value for reciprocal graphs",57,Cubics and Reciprocals,A,"This is a part of the table of values for the equation \( y=\frac{3}{x} \) \begin{tabular}{|c|c|}
+\hline\( x \) & \( 3 \) \\
+\hline\( y \) & \( \bigstar \) \\
+\hline
+\end{tabular} What should replace the star?",\( 1 \),\( 3 \),\( \frac{1}{3} \),\( 0 \),,2349.0,,832.0
+247,71,Solve problems that combine addition and subtraction,206,Written Subtraction,B,"At the start of the day, there was \( £ 1,456 \) in the till. \( £ 7,347 \) was taken and \( £ 4,377 \) was handed out. How much money was left?","\( £ 13,180 \)","\( £ 4,426 \)","\( £ 2,970 \)","\( £ 10,268 \)",2009.0,,791.0,1787.0
+383,1525,Substitute positive integer values into expressions involving no powers or roots,67,Substitution into Formula,B,"When \( h=15 \)
+
+\(
+\frac{h}{3}=
+\)
+",\( 12 \),\( 5 \),\( -9 \),\( -5 \),2093.0,,,1648.0
+322,311,Multiply a decimal by an integer,224,Multiplying and Dividing with Decimals,B,"Work out:
+\[
+0.3 \times 12
+\]",\( 36 \),\( 3.6 \),\( 0.36 \),\( 0.036 \),189.0,,1035.0,2187.0
+203,1399,"Calculate the distance between two coordinates in 2D, where all the values are positive integers",410,Distance Between Two Co-ordinates,B,"Mark is working out the distance between these two points. What type of triangle would help him? ![Axes with not scales drawn on. Two points are marked, (4,10) and (9,2)]()",Isosceles,Right-angled,Equilateral,Scalene,1658.0,,1658.0,1658.0
+874,1961,Identify questions involving a 2D right-angled triangle that require the use of the Tangent (tan) ratio,279,Right-angled Triangles (SOHCAHTOA),C,Which ratio would you use to find the value of \( \theta \) ? ![A right angled triangle with the two shorter sides marked as 7cm and 10cm. The angle opposite the 10 cm side is labelled with θ. The longest side of the triangle has no label.](),Sin,Cos,Tan,None of these,718.0,809.0,,1450.0
+1111,638,Use direct proportion to solve unitary missing amounts in problems (e.g. recipes),243,Direct Proportion,C,"Eight bottles of water cost \( £ 3.60 \).
+
+How much does one bottle of water cost?",\( £ 28.80 \),\( 30 p \),\( 45 p \),\( £ 3.53 \),1028.0,,,1123.0
+1302,2866,Calculate the sector angle on a pie chart for a given group,109,Pie Chart,C,"A diver wants to make a pie chart of his trip. \begin{tabular}{|c|c|c|}
+\hline & Frequency & Degrees \\
+\hline Manta Ray & \( 16 \) & \( 180 \) \\
+\hline Hammerhead & \( 4 \) & \( 45 \) \\
+\hline Conger Eel & \( 12 \) & \( \mathrm{~F} \) \\
+\hline
+\end{tabular} Which one of these is a correct method for finding F?",\( 360-180+45 \),\( \frac{12}{20} \times 360 \),\( 360-180-45 \),\( \frac{360}{32} \),1392.0,924.0,,1307.0
+352,982,"Given a negative x value, find the corresponding y value for curves in the form y = x² + c",265,Plotting Quadratics from Tables of Values,A,"This is a part of the table of values for the equation
+\(y=x^{2}+4\) \begin{tabular}{|l|l|}
+\hline\( x \) & \( -6 \) \\
+\hline\( y \) & \( \bigstar \) \\
+\hline
+\end{tabular} What should replace the star?",\( 40 \),\( 4 \),\( -24 \),\( -32 \),,158.0,,82.0
+1376,572,Identify percentages of a shape where the percent is a multiple of 10,225,Fractions of an Amount,B,What percentage of this shape is shaded? ![A bar split into 5 equal parts. 3 parts are shaded.](),\( 30 \% \),\( 60 \% \),\( 3 \% \),\( 55 \% \),302.0,,329.0,1764.0
+575,433,Subtract proper fractions with different denominators where one is a multiple of the other,230,Adding and Subtracting Fractions,D,"\(
+\frac{3}{4}-\frac{1}{12}=\frac{2}{\bigstar}
+\)
+
+What should replace the star?",\( 12 \),\( 48 \),\( 8 \),\( 3 \),2234.0,2234.0,,
+1345,435,Subtract proper fractions with different denominators which do not share a common factor,230,Adding and Subtracting Fractions,A,"\(
+\frac{3}{4}-\frac{1}{3}=\frac{\bigstar}{12}
+\)
+What should replace the star?",\( 5 \),\( 2 \),\( 13 \),\( 4 \),,907.0,,
+479,3412,Convert between l and m³ ,197,Volume and Capacity Units,C,"\[
+100 \text { litres = }
+\square \, cubic \, metres
+\]",\( 100 \),\( 10 \),\( 0.1 \),\( 0.001 \),230.0,588.0,,
+943,960,Identify perpendicular lines written in the form y = mx + c,263,Perpendicular Lines,A,"Which of the following lines is perpendicular to
+\[
+y=2 x+1 \text { ? }
+\]",\( y=7-\frac{1}{2} x \),\( y=2 x-1 \),\( x=2 y+1 \),\( y=\frac{1}{2} x-3 \),,1917.0,708.0,925.0
+1254,2570,Calculate the area of a trapezium where the dimensions are given in the same units,75,Area of Simple Shapes,B,"Sally wants to calculate the area of this trapezium using the formula: Area \( =\left(\frac{a+b}{2}\right) h \) ![A trapezium with the parallel sides labelled 6cm and 2cm, the slant height labelled 7cm and the perpendicular height labelled 5cm.]() What is the values of \( h \) ?",\( 6 \mathrm{~cm} \),\( 5 \mathrm{~cm} \),\( 7 \mathrm{~cm} \),\( 2 \mathrm{~cm} \),396.0,,2332.0,396.0
+305,1466,"Solve one-step linear equations requiring multiplication or division, involving positive fractions",64,Linear Equations,D,"Solve the equation:
+\(
+5 p=\frac{1}{10}
+\)",\( p=\frac{1}{2} \),\( p=\frac{1}{5} \),\( p=2 \),\( p=\frac{1}{50} \),1214.0,,,
+514,2576,Calculate the area of an isosceles triangle where the dimensions are given in the same units,75,Area of Simple Shapes,C,"Which of the following calculations would give the area of this triangle? ![A triangle with the base labelled with 40cm, the perpendicular height 15cm and the slant height labelled with 25 cm]()",\( \frac{40 \times 25}{2} \),\( \frac{40 \times 25 \times 15}{2} \),\( \frac{40 \times 15}{2} \),\( \frac{20 \times 15}{2} \),590.0,1985.0,,1333.0
+1215,67,Divide integers by 1000,202,Place Value,A,\( 609 \div 1000= \),\( 0.609 \),\( 0.69 \),\( 6.09 \),\( 609.000 \),,,1398.0,424.0
+1300,2232,Convert from days to seconds,209,Time,B,Which of the following would correctly calculate the number of seconds in \( 1 \) day?,\( 24 \times 60 \),\( 24 \times 60 \times 60 \),\( 12 \times 60 \),\( 12 \times 60 \times 60 \),1107.0,,,443.0
+529,414,Order fractions whose denominators are multiples of the same number ,228,Ordering Fractions,C,Which option shows the fractions in order from smallest to largest?,\( \begin{array}{llll}\frac{3}{4} & \frac{1}{2} & \frac{2}{6} & \frac{1}{12}\end{array} \),\( \begin{array}{llll}\frac{1}{2} & \frac{3}{4} & \frac{2}{6} & \frac{1}{12}\end{array} \),\( \frac{1}{12} \quad \frac{2}{6} \quad \frac{1}{2} \quad \frac{3}{4} \),\( \begin{array}{llll}\frac{1}{2} & \frac{1}{12} & \frac{2}{6} & \frac{3}{4}\end{array} \),2212.0,296.0,,1667.0
+620,2650,"Reflect an object or a point in a vertical line with the line of reflection given as an equation, where the line of reflection lies on the edge or outside the object",92,Reflection,D,This triangle is reflected in the line \( x= \) 4. What will the coordinate of the point marked \( \mathrm{C} \) on the reflected shape be? ![A positive quadrant graph showing a triangle ABC plotted](),"\( (3,5) \)","\( (6,3) \)","\( (4,5) \)","\( (2,5) \)",,642.0,,
+1760,737,Add surds in the form va + vb,248,Simplifying Surds,C,"\( \sqrt{12}+\sqrt{27} \) Simplify, if possible.",\( 3 \sqrt{5} \),\( \sqrt{39} \),\( 5 \sqrt{3} \),Cannot be simplified,2011.0,44.0,,578.0
+366,2570,Calculate the area of a trapezium where the dimensions are given in the same units,75,Area of Simple Shapes,C,"When calculating the area of this trapezium, what is the value of \( h \) in the formula? Area \( =\left(\frac{a+b}{2}\right) h \) ![Trapezium with the slanted sides labelled 8cm and 7.5cm. The parallel sides labelled 3cm and 8cm. The perpendicular height labelled 7cm.]()",\( 8 \),\( 7.5 \),\( 7 \),\( 3 \),2332.0,2332.0,,1175.0
+1508,854,"Use the order of operations to carry out calculations involving addition, subtraction, multiplication, and/or division",33,BIDMAS,A,\( 3+6 \div 2+1= \),\( 7 \),\( 3 \),\( 5.5 \),\( 5 \),,15.0,1507.0,
+1626,2301,Calculate the volume of a cylinder when the dimensions are given in the same units,189,Volume of Prisms,B,What is the area of the face marked \( F \) ![A cylinder with height 9cm and radius 5cm. An arrow points to the circular face at the bottom of the cylinder.](),\( 10 \pi\ \mathrm{cm}^{2} \),\( 25 \pi\ \mathrm{cm}^{2} \),\( 45 \pi\ \mathrm{cm}^{2} \),\( 100 \pi\ \mathrm{cm}^{2} \),1455.0,,,1686.0
+764,343,Identify common multiples of two numbers,220,Multiples and Lowest Common Multiple,B,"""Common multiples of \( 2 \) and \( 5 \) are also multiples of \( 25 "" \)
+Is this statement...",always true,sometimes true,never true,Impossible to say,,,2417.0,2417.0
+394,2297,Calculate the volume of a cuboid when the dimensions are given in the same units,189,Volume of Prisms,C,"What is the volume of this cuboid? ![A cuboid with dimensions labelled 10cm, 4cm and 5cm]()",\( 19 \mathrm{~cm}^{3} \),\( 50 \mathrm{~cm}^{3} \),\( 200 \mathrm{~cm}^{3} \),\( 220 \mathrm{~cm}^{3} \),1984.0,554.0,,746.0
+1790,2560,Find the area of rectilinear shapes by counting squares,75,Area of Simple Shapes,A,What is the area of this shape? ![A square cm grid showing a shape made up of 3 small squares.](),\( 3 \),\( 8 \),\( 20 \),\( 4 \),,982.0,2090.0,743.0
+464,408,Identify equivalent fractions when presented as shapes or objects,226,Equivalent Fractions,D,"By comparing the fraction of the rectangle that is shaded in each diagram, decide which is the odd one out?",![A rectangle with 1/3 shaded in red](),![A rectangle with 2/6 shaded in blue](),![A rectangle with 3/9 shaded in purple](),![A rectangle with 6/12 shaded in orange](),120.0,120.0,120.0,
+1055,427,Add proper fractions with different denominators which do not share a common factor,230,Adding and Subtracting Fractions,D,"The fractions in the two circles below add to give the fraction in the circle above.
+
+What should replace the question mark? ![Fractions 3/5 and 1/4 in two separate circles, both linked to a third circle above.]()",\( \frac{4}{9} \),\( \frac{4}{20} \),\( \frac{7}{20} \),\( \frac{17}{20} \),217.0,1655.0,,
+947,331,Identify factors of a number,219,Factors and Highest Common Factor,B,"Tom and Katie are discussing the conjecture:
+
+All numbers have an even number of factors because factors come in pairs
+
+Tom says a counter-example is \( 24 \)
+
+Katie says a counter-example is \( 16 \)
+
+Who do you agree with?",Only Tom,Only Katie,Both Tom and Katie,Neither is correct,762.0,,,
+1536,2758,Calculate the mean as an average from a list of data,102,"Averages (mean, median, mode) from a List of Data",B,"What is the mean of the following numbers?
+
+\[
+2,2,3,5,8
+\]",\( 20 \),\( 4 \),\( 3 \),\( 2 \),631.0,,2457.0,377.0
+1859,2741,Read values off a displacement-time graph,117,Time Series and Line Graphs,C,"This graph shows the displacement of a ball from a starting point at various times.
+How far did the ball travel between \( 1 \) and \( 2 \) seconds? ![A displacement versus time graph]() This graph displacem from a start",\( 0.5 \ \text{m} \),\( 2 \ \text{m} \),\( 1.5 \ \text{m} \),\( 2.5 \ \text{m} \),378.0,378.0,,1887.0
+1107,1446,Recognise whether you need to add or subtract linear equations in order to eliminate a variable,63,Simultaneous Equations,A,"Tom and Katie are discussing this pair of simultaneous equations: \( \begin{array}{l}3 x-2 y=15 \\ x+2 y=20\end{array} \) Tom says if you add the two equations together you will eliminate a variable
+
+Katie says if you subtract the two equations together you will eliminate a variable
+
+Who is correct?","Only
+Tom","Only
+Katie",Both Tom and Katie,Neither is correct,,1274.0,930.0,
+1207,161,Understand the non-commutativity of division,70,Writing Expressions,B,"Tom and Katie are discussing expressions
+Tom says \( \frac{p}{q} \) is equivalent to \( \frac{q}{p} \)
+Katie says \( p q \) is equivalent to \( q p \)
+Who do you agree with?","Only
+Tom","Only
+Katie",Both Tom and Katie,Neither is correct,2359.0,,2359.0,638.0
+807,1492,Solve quadratic equations using the quadratic formula where the coefficient of x² is 1 ,65,Quadratic Equations,C,"Vera wants to solve this equation using the quadratic formula.
+\(
+h^{2}+4=5 h
+\)
+
+What should replace the star? \( \frac{ \bigstar\pm \sqrt{?-?}}{?} \)",\( -4 \),\( 4 \),\( 5 \),\( -5 \),2245.0,,,265.0
+111,3207,"Understand the terms equilateral and regular, and recognise the notation for regular polygons",183,Angles in Polygons,D,Which quadrilateral below is a regular polygon?,![Trapezium](),![Rhombus](),![Rectangle](),![Square](),255.0,255.0,255.0,
+582,1440,Complete the square for expressions that end up in the form a(x + b)² + c,256,Completing the Square,A,"When Aaron completes the square, what should replace the triangle?
+\(
+3 g^{2}-18 g-7 \equiv 3(g-3)^{2} \triangle
+\)",\( \triangle=-34 \),\( \triangle=-16 \),\( \triangle=-25 \),\( \triangle=-88 \),,2131.0,2316.0,2114.0
+1034,42,Place or identify the location of an integer between 100 and 1000 on a number line,216,Estimation,C,Which number line shows a good estimate for the position of the number shown?,"![A number line from 0 to 10000 with the value 857 incorrectly labelled, with an arrow, between the midpoint and 10000]()","![A number line from 0 to 1000 with the value 499 incorrectly labelled, with an arrow, just after the midpoint]()","![A number line from 1000 to 2000 with the value 1250 correctly labelled, with an arrow, between 1000 and the midpoint]()","![A number line from 0 to 10000 with the value 8967 incorrectly labelled, with an arrow, after the midpoint]()",1957.0,,,
+1339,1746,Use angles around a point to form and solve algebraic equations,181,"Basic Angle Facts (straight line, opposite, around a point, etc)",A,Which of the following equations is true based on the diagram? ![Angles around a point made up of two angles labelled: f and f-20](),\( 2 f-20=360 \),\( 2 f-20=180 \),\( f^{2}-20=360 \),\( f-20=f \),,2266.0,923.0,1897.0
+298,1281,"Multiply algebraic terms, involving non-linear versions of different letters (e.g. 4a2 x 5ab)",247,Laws of Indices,B,\( 5 p^{2} \times 2 p q \equiv \),\( 10 p q^{3} \),\( 10 p^{3} q \),\( 7 p^{3} q \),Does not simplify,,,2085.0,346.0
+880,2254,Solve problems involving subtracting a period of time from a given end time,209,Time,C,What time is \( 30 \) minutes before midnight?,\( 11: 30 \),11:30 am,11:30 pm,None of these answers is correct,581.0,2485.0,,
+1437,2774,Calculate the range from a list of data,339,Range and Interquartile Range from a List of Data,A,"What is the range of this set of data?
+\[
+4 \mathrm{~cm}, \quad 22 \mathrm{~cm}, \quad 5 \mathrm{~cm}, \quad 7 \mathrm{~cm}
+\]",\( 18 \mathrm{~cm} \),\( 22 \mathrm{~cm} \),\( 3 \mathrm{~cm} \),\( 26 \mathrm{~cm} \),,1177.0,1677.0,691.0
+1205,2974,Understand the term mutually exclusive,111,Probability of Single Events,B,"Percy is playing a game where all \( 26 \) letters of the alphabet at placed into a bag and Percy has to pick one out at random.
+Picking a \( \mathrm{P} \) and a vowel are known as...",Independent events,Mutually exclusive events,Probability events,Dependant events,1089.0,,1089.0,1089.0
+888,1407,Expand two brackets with linear terms in the form (x + a)(x + b),51,Expanding Double Brackets,B,"Multiply out the brackets:
+\[
+(m-5)(m-7)
+\]",\( m^{2}-2 m-35 \),\( m^{2}-12 m+35 \),\( m^{2}+12 m+35 \),\( m^{2}-12 m-35 \),,,1639.0,1597.0
+1272,2637,Solve length problems involving similar shapes where the missing length is the shorter one,90,Length Scale Factors in Similar Shapes,A,"These two shapes are similar.
+
+What is the value of \( y \) ? ![The diagram is of two trapeziums. The base of each trapezium is parallel with its top side.
+The smaller trapezium has base 60cm and top labelled y.
+The larger trapezium has base 150cm and top 70cm.]()",\( 28 \mathrm{~cm} \),\( 20 \mathrm{~cm} \),\( 25 \mathrm{~cm} \),\( 30 \mathrm{~cm} \),,1764.0,1764.0,1764.0
+1170,2622,Recall the correct formula to calculate the length of a non-hypotenuse of a right-angled triangle in a 2D Pythagoras questions,89,2D Pythagoras,D,"A right-angled tringle has sides a, b, and \( c \) as shown.
+
+Choose the formula for finding side a. ![Right-angled triangle with height a, base b and hypotenuse c.]()",\( a=c-b \),\( a^{2}=b^{2}+c^{2} \),\( a^{2}=b^{2}-c^{2} \),\( a^{2}=c^{2}-b^{2} \),483.0,,,
+297,2352,Use common conventions for labelling the sides of shapes,88,Properties of Quadrilaterals,D,"Which of the following is a correct way to describe the highlighted side of this shape? ![A  4 sided shape with two pairs of parallel sides. Each vertex (corner) is labelled with a letter. The bottom right is S, the bottom left is P, the top left is Q and the top right is R. The side joining P and Q is highlighted in red.]()",\( Q \),P,QPRS,\( Q P \),1393.0,1393.0,1790.0,
+1712,2680,"Describe a 90° or 270° rotation giving the angle and direction of rotation, and the coordinates of the centre of rotation, where the centre of rotation lies on the edge or outside of the object ",93,Rotation,D,"Tom and Katie are arguing about how to fully describe the rotation from shape \( P \) to shape \( Q \)
+
+Tom says: ""a rotation of \( 90^{\degree} \) about point \( (1,1) \) ""
+
+Katie says: ""a rotation of \( 90^{\degree} \) clockwise""
+
+Who is correct? ![A coordinate grid with two pentagons drawn on it labelled P and Q. Pentagon P has the coordinates: (-3,-1) (-3,0) (-2,3) (-1,0) and (-1,-1). Pentagon A has the coordinates: (-1,5) (0,5) (3,4) (0,3) and -1,3).]()","Only
+Tom",Only Katie,Both Tom and Katie,Neither is correct,537.0,801.0,537.0,
+1086,3144,Change decimals of hours into minutes,209,Time,C,\( 0.6 \) hours \( = _____\) minutes,\( 6 \),\( 120 \),\( 36 \),\( 60 \),767.0,,,161.0
+544,3345,Identify or mark lines of symmetry on a shape,275,Line Symmetry,B,"![A rectangle divided into 3 equal horizontal sections. The middle section is white and the other 2 sections are blue. In the centre of the white section are five 5-pointed blue stars in the same formation as the 5 dots on a dice. All the stars are in exactly the same orientation, with one point pointing directly upwards.]() How many lines of symmetry does this shape have?",\( 0 \),\( 1 \),\( 2 \),\( 4 \),576.0,,2210.0,226.0
+1451,1133,Recognise that a sequence is linear sequences when expressed as a pattern,171,Linear Sequences (nth term),C,"Tom and Katie are discussing linear sequences Tom says this is a linear sequence: ![Three shapes made of squares. The first is an L-shape made of 3 squares so the bottom line is two squares long. The second shape is also an L but with a bottom line of three squares. The fourth shape is the same but the bottom line is four squares long.  ]() Katie says this is a linear sequence: ![Three shapes made of squares. The first is an L-shape made of 3 squares. The second shape is an L made of 5 squares, two on the top row and three on the bottom row. The third shape is an L made of 7 squares, 3 on the top row and four on the bottom. ]() Who is correct?","Only
+Tom","Only
+Katie",Both Tom and Katie,Neither is correct,1198.0,1198.0,,1198.0
+1619,1525,Substitute positive integer values into expressions involving no powers or roots,67,Substitution into Formula,D,"When \( h=15 \) and \( j=3 \)
+Which of the following pairs of statements is true?",\( \begin{array}{l}h(j+2)=75 \\ h(2+j)=-75\end{array} \),\( \begin{array}{l}h(j+2)=23 \\ h(2+j)=32\end{array} \),\( \begin{array}{l}h(j+2)=32 \\ h(2+j)=23\end{array} \),\( \begin{array}{l}h(j+2)=75 \\ h(2+j)=75\end{array} \),1336.0,1336.0,1336.0,
+1174,373,Convert fractions to percentages containing 1 decimal place,238,Converting between Fractions and Percentages,D,"What percentage is represented by:
+\(
+\frac{3}{10}+ \frac{7}{1000}
+\)",\( 307 \% \),\( 3.7 \% \),\( 37 \% \),\( 30.7 \% \),1033.0,800.0,,
+65,1492,Solve quadratic equations using the quadratic formula where the coefficient of x² is 1 ,65,Quadratic Equations,D,"Vera wants to solve this equation using the quadratic formula.
+\(
+h^{2}+4=5 h
+\)
+
+What should replace the triangle? ![The image shows the structure of the quadratic formula. It says plus or minus the square root, and the triangle is the first thing after the square root sign, with a minus sign after it.]()",\( 8 \),\( -10 \),\( 16 \),\( 25 \),,2316.0,2245.0,
+1330,2762,Calculate the mode as an average from a list of data when there are two or more modes,102,"Averages (mean, median, mode) from a List of Data",A,"What is the mode of the following numbers?
+\[
+1,1,4,6,7,7
+\]",\( 1 \) and \( 7 \),\( 7 \),\( 4 \),There is no mode,,375.0,1823.0,2069.0
+462,1482,"Solve linear equations with the variable appearing on both sides, with all positive integers",64,Linear Equations,A,What is the solution for this equation? \( 4(3 x-2)=2(6 x-8) \),This equation is impossible to solve,\( x=0 \),\( x=-\frac{2}{3} \),This equation has an infinite number of solutions,,1598.0,,
+1318,331,Identify factors of a number,219,Factors and Highest Common Factor,B,"\begin{tabular}{|c|c|c|}
+      & Multiple of \( 4 \) & Not a multiple of \( 4 \) \\
+\hline Factor of \( 60 \) & A & B \\
+\hline Not a factor of \( 60 \) & C & D \\
+\hline
+\end{tabular} In which box should you place \( \mathbf{3 0} \) ?",A,B,C,D,,,,331.0
+1569,2723,Substitute numbers into a SUVAT equation to work out distance,67,Substitution into Formula,A,"\( s=u t+\frac{1}{2} a t^{2} \) What is the value of \( s \) when
+a=6 
+u=3 
+t=4
+",\( 60 \),\( 156 \),\( 576 \),\( 24 \),,452.0,452.0,
+239,3181,Recognise a quadratic graph from its shape,1171,Quadratic Graphs-Others,C,Tom and Katie are discussing quadratic graphs Tom says this could be the graph of a quadratic function ![A graph showing a positive parabola in the shape of a u]() Katie says this could be the graph of a quadratic function ![A graph showing a negative parabola in the shape of an upside down u]() Who is correct?,Only Tom,Only Katie,Both Tom and Katie,Neither is correct,951.0,1806.0,,1133.0
+188,2646,"Reflect an object or a point in a horizontal line with the line of reflection drawn, where the line of reflection lies on the edge or outside the object",92,Reflection,D,"Tom and Katie are arguing about how to reflect the object in the line of reflection. Who reflects it correctly? ![A grid with a left-leaning parallelogram drawn in the upper half and a blue line across the middle, marked 'line of reflection'. ]() ![Tom does this: an image of a grid with a left-leaning parallelogram drawn in the upper half, a blue line across the middle and a left-leaning parallelogram drawn immediately below. ]() ![Katie does this: An image of a grid with a left-leaning parallelogram drawn in the upper half, a blue line across the middle and a left-leaning parallelogram drawn one line down from the blue line. ]()","Only
+Tom",Only Katie,Both Tom and Katie,Neither is correct,1990.0,1990.0,1990.0,
+1618,3409,Identify non-prisms from a diagram,177,Names and Properties of 3D Shapes,A,Which of the following is a correct name of this shape? ![A 3D shape with 1 square face and 4 triangular faces. 1 triangular face is attached to each side of the square face.](),Square-based pyramid,Triangular prism,Cone,Triangular-based pyramid,,1927.0,402.0,816.0
+29,1045,Solve linear inequalities in one variable where the unknown appears on boths sides of the equation,166,Solving Linear Inequalities,B,"Solve
+\[
+2 n+3 \leq 3 n-7
+\]",\( 2 \leq n \),\( 10 \leq n \),\( n \leq 10 \),\( -4 \leq n \),1214.0,,811.0,1214.0
+1335,402,Express one quantity as a fraction of another,227,Simplifying Fractions,D,Write \( 16 \) over \( 28 \) as a fraction in its simplest terms.,\( \frac{16}{28} \),\( \frac{1}{13} \),\( \frac{4}{6} \),\( \frac{4}{7} \),29.0,2078.0,,
+1288,1452,Solve linear simultaneous equations requiring no scaling of expressions,63,Simultaneous Equations,A,"Which of the following pairs of simultaneous equations would have no solutions?
+\begin{array}{ccc} 
+Pair \( 1 \) & Pair \( 2 \) \\
+\( 2 y-2 x=7 \) & & \( 2 x+2 y=7 \) \\
+\( 2 x-2 y=7 \) & & \( 2 x-2 y=7 \)
+\end{array}",Only Pair \( 1 \),Only Pair \( 2 \),Both Pair \( 1 \) and Pair \( 2 \),Neither Pair \( 1 \) nor Pair \( 2 \),,,1494.0,
+759,2564,Calculate the area of a rectangle where the dimensions are given in the same units,204,Mental Multiplication and Division,A,"![A rectangle with one part shaded, labelled with dimensions 20, 8 and 6]() Which of the following calculations would correctly work out the area of the section shaded with a solid colour?",\( 8 \times 20-8 \times 6 \),\( 8 \times 20+8 \times 6 \),\( 8 \times 14-8 \times 6 \),\( 8 \times 14+8 \times 6 \),,709.0,1295.0,
+1160,2971,Calculate the probability of two dependent events occurring without drawing a tree diagram,112,Tree Diagrams with Dependent Events,C,"There are \( 5 \) red balls and \( 4 \) yellow balls in a cup ![A cup with 5 red and 4 yellow balls in it. All of the balls are the same size.]() Kate picks out two balls at the same time.
+
+What is the probability at least one ball is red?",\( \frac{67}{72} \),\( \frac{20}{72} \),\( \frac{60}{72} \),\( \frac{40}{72} \),,111.0,,2309.0
+1544,700,"Given information about one part, work out other parts",241,Sharing in a Ratio,C,"Kate and Isaac share some sweets in the ratio \( 3: 2 \)
+
+Kate receives \( 60 \) sweets.
+
+How many sweets does Isaac receive?",\( 20 \),\( 24 \),\( 40 \),\( 90 \),1659.0,624.0,,
+398,3326,Count backwards through zero starting from a positive integer,211,Adding and Subtracting Negative Numbers,A,"John's flat is on floor \( 4 \).
+
+The gym is on floor \( -1 \).
+
+How many floors does John need to go down to get from his flat to the gym? ![A vertical number line from -8 to 7 increasing in 1 digit increments]()",\( 5 \),\( 3 \),\( 6 \),\( 4 \),,,1824.0,1793.0
+837,1525,Substitute positive integer values into expressions involving no powers or roots,67,Substitution into Formula,D,"\[
+\text { When } h=10 \text { and } j=4
+\]
+
+Which of the following pairs of statements is true?",\( \begin{array}{l}h(j+2)=60 \\ h(2+j)=-60\end{array} \),\( \begin{array}{l}h(j+2)=42 \\ h(2+j)=24\end{array} \),\( \begin{array}{l}h(j+2)=24 \\ h(2+j)=42\end{array} \),\( \begin{array}{l}h(j+2)=60 \\ h(2+j)=60\end{array} \),1336.0,1336.0,1336.0,
+109,987,Know that the factorised form of a quadratic is useful for finding where the curve crosses the x-axis,266,Sketching from Factorised Form,B,"Tom and Katie are discussing quadratic graphs.
+
+Tom says a quadratic expression that cannot be factorised will not intercept the \( x \) axis.
+
+Katie says a graph of a quadratic that does not intercept the \( x \) axis cannot be factorised.
+Who is correct?",Only Tom,Only Katie,Both Tom and Katie,Neither is correct,384.0,,384.0,
+637,313,Multiply two decimals together with a different number of decimal places,224,Multiplying and Dividing with Decimals,B,\( 0.15 \times 0.2= \),\( 3 \),\( 0.03 \),\( 0.3 \),\( 0.003 \),1708.0,,1708.0,1708.0
+1643,3086,Understand key loci terms like equidistant and perpendicular,406,Naming Co-ordinates in 2D,C,"![A set of axes: x-axis from -4 to 4, y-axis from -4 to 4. A red line is drawn from (-2,2) to (2,2).]() The red line is _________ to the y axis.",Parallel,Opposite,Perpendicular,Equidistant,,2424.0,,1513.0
+1161,2566,Calculate the area of a parallelogram where the dimensions are given in the same units,75,Area of Simple Shapes,A,"What is the area of the parallelogram? ![A parallelogram with length 7cm, perpendicular height (marked by a right angle) 3cm, and slanted height 4cm. Not to scale]()",\( 21 \mathrm{~cm}^{2} \),\( 22 \mathrm{~cm}^{2} \),\( 28 \mathrm{~cm}^{2} \),\( 84 \mathrm{~cm}^{2} \),,982.0,669.0,71.0
+933,919,Determine if a given point lies on a line,257,Plotting Lines from Tables of Values,A,"Tom and Katie are arguing about points on the line
+\[
+y=2 x-3
+\]
+
+Tom says \( (5,7) \) lies on the line \( \boldsymbol{y}=\mathbf{2} \boldsymbol{x}-\mathbf{3} \)
+
+Katie says \( (-5,-7) \) lies on the line \( \boldsymbol{y}=\mathbf{2 x}-\mathbf{3} \)
+
+Who is correct?","Only
+Tom",Only Katie,Both Tom and Katie,Neither is correct,,,1937.0,
+705,207,Round integers to the nearest 100,213,"Rounding to the Nearest Whole (10, 100, etc)",C,"A number rounds to \( 20,000 \) when rounded to the nearest ten thousand, thousand and hundred.
+Which number could this be?",\( 19199 \),\( 20074 \),\( 20043 \),\( 19949 \),1988.0,1379.0,,1988.0
+617,399,Identify non-unit fractions when part of a shape,232,Dividing Fractions,D,"What should replace the question mark? ![A bar split into 8 equal parts. 3 of the parts are shaded, and the total length of these 3 parts is labelled 3/4. The total length of 6 parts is labelled with a question mark.]()",\( \frac{6}{8} \),\( 6 \),\( \frac{6}{3} \),\( \frac{6}{4} \),1976.0,1237.0,,
+800,1746,Use angles around a point to form and solve algebraic equations,181,"Basic Angle Facts (straight line, opposite, around a point, etc)",B,"![Two angles around a point, labelled 2y and y]() What is the size of angle \( y \) ?",\( 180^{\circ} \),\( 120^{\circ} \),\( 90^{\circ} \),Not enough information,528.0,,1069.0,51.0
+1062,162,Interpret and carry out mental division using a bar model,208,Written Division,C,"Find the value of \( P \). ![Horizontal green bar divided into 5 equal sections. Each section is labelled with a ""P"". Curly bracket shows that 3 of the sections sum to 615.]()",\( 200 \),\( 123 \),\( 205 \),\( 1845 \),1764.0,717.0,,2314.0
+432,902,"Given a positive y value, find an x value in a table of values for lines in the form y = mx + c",257,Plotting Lines from Tables of Values,D,"This is a part of the table of values for the equation \( y=3 x \) ![A table with two rows and two columns. The top left box has 'x', with a star in the top right box. The bottom left box has 'y' with a 9 in the bottom right box. ]() What should replace the star?",\( 6 \),\( 39 \),\( 27 \),\( 3 \),481.0,,391.0,
+1665,1476,"Solve three or more step linear equations, with the variable on one side, with all positive integers",64,Linear Equations,A,"Tom and Katie are discussing how to solve:
+\(\frac{5 x-1}{3}=2\)
+
+Tom says a correct next line of working could be: \( 5 x-1=6 \)
+
+Katie says a correct next line of working could be: \( \frac{5 x}{3}=3 \)
+
+Who is correct?",Only Tom,"Only
+Katie",Both Tom and Katie,Neither is correct,,1566.0,1566.0,1929.0
+1381,2723,Substitute numbers into a SUVAT equation to work out distance,67,Substitution into Formula,D,"\( s=u t+\frac{1}{2} a t^{2} \) What is the value of \( S \) when
+\[\begin{array}{l} a=4 \\ u=3 \\ t=5\end{array}\]",\( 25 \),\( 115 \),\( 625 \),\( 65 \),,,452.0,
+619,336,Recognise when to find a factor to solve a problem,219,Factors and Highest Common Factor,D,"A Zumba teacher wants to split her group of \( 60 \) clients into equal sized classes.
+To do this she needs to know the _________ of \( 60 \)
+Which word best fills in the gap?",Remainders,Fractions,Multiples,Factors,2292.0,2292.0,710.0,
+706,1755,Identify corresponding angles,182,Angle Facts with Parallel Lines,B,These marked angles are: ![A pair of parallel lines drawn pointing up to the right. A straight line is drawn that crosses both parallel lines. The angles formed above the straight line and to the right of each of the parallel lines is marked.](),Alternate,Corresponding,Co-Interior,Parallel,2454.0,,785.0,280.0
+425,411,Simplify fractions that simplify to a non-unit fraction,227,Simplifying Fractions,C,"Simplify fully (if possible):
+
+\( \frac{18}{30} \)",\( \frac{4.5}{7.5} \),\( \frac{9}{15} \),\( \frac{3}{5} \),Cannot be simplified,1358.0,1825.0,,606.0
+1797,2077,Identify a unit of volume or capacity,197,Volume and Capacity Units,A,"Sally has answered a question on volume. Her answer is \( 500 \).
+Behind the star she has written the units that she used.
+Which of the following units is definitely wrong?
+
+\( 500 \,\bigstar \)
+
+",\( \mathrm{cm}^{2} \),\( \mathrm{mm}^{3} \),\( m^{3} \),\( l \),,996.0,996.0,1520.0
+591,2282,Calculate the surface area of a cuboid where the dimensions are given in the same units,188,Surface Area of Prisms,A,Which calculation would give you the area of the face of this cuboid labelled \( Q \) ('the top')? ![A cuboid with dimensions 6cm by 3cm by 4 cm. The top face Q is marked. It is a rectangle with dimensions 6cm by 3cm.](),\( 6 \mathrm{~cm} \times 3 \mathrm{~cm} \),\( 4 \mathrm{~cm} \times 3 \mathrm{~cm} \),\( 6 \mathrm{~cm} \times 4 \mathrm{~cm} \),\( 6 \mathrm{~cm} \times 4 \mathrm{~cm} \times 3 \mathrm{~cm} \),,910.0,910.0,648.0
+495,2576,Calculate the area of an isosceles triangle where the dimensions are given in the same units,75,Area of Simple Shapes,D,What is the area of the triangle? ![An image of a triangle. The width is marked /sqrt(64) and the vertical height is marked 4cm. ](),\( 32 \mathrm{~cm}^{2} \),\( 64 \mathrm{~cm}^{2} \),\( 256 \mathrm{~cm}^{2} \),\( 16 \mathrm{~cm}^{2} \),159.0,808.0,,
+1290,1530,Substitute positive non-integer values into expressions involving powers or roots,265,Plotting Quadratics from Tables of Values,A,"Jo and Paul are discussing quadratic equations.
+
+Jo says there is no value of \( x \) that can make \( (1-x)^{2} \) negative.
+
+Paul says there is no value of \( x \) that can make \( 1-x^{2} \) positive.
+Who is correct?","Only
+Jo","Only
+Paul",Both Jo and Paul,Neither is correct,,,557.0,82.0
+1737,3381,Use perimeter to write algebraic expressions,86,Perimeter,A,What is an expression for the perimeter of this rectangle? ![Yellow rectangle with base length a and side length b](),\( 2 a+2 b \),\( a b \),\( a+b \),Not enough information,,833.0,1706.0,935.0
+727,1507,Solve a linear equation using a function machine,171,Linear Sequences (nth term),B,"If I put the numbers \( 4 \) and \( 9 \) into this function machine, what comes out? ![Flow chart starting with instruction ""In"" inside a blue rimmed circle, then ""+ 5"" inside a red rimmed square, then ""double"" inside a red rimmed square and lastly,  ""Out"" inside a blue rimmed circle.]()",\( 9 \) and \( 14 \),\( 18 \) and \( 28 \),\( 81 \) and \( 196 \),\( -3 \) and \( -0.5 \),,,2316.0,2389.0
+196,1522,Rearrange formulae to change the subject where the subject appears once and two steps are needed,60,Rearranging Formula and Equations,C,"Rearrange the following equation to make \( r \) the subject
+\(g=2 r+3\)",\( r=\frac{g+3}{2} \),\( r=g+3 \div 2 \),\( r=\frac{g-3}{2} \),\( r=g-\frac{3}{2} \),1971.0,2586.0,,
+344,2105,Convert between m³ and cm³,197,Volume and Capacity Units,C,"\(
+0.7 m^3 =\bigstar \,cm^3
+\)
+
+What should replace the star?",\( 70 \),\( 7000 \),\( 700000 \),\( 700 \),2514.0,,,
+135,3319,"Solve problems involving converting between fractions, decimals and percentages",237,Converting between Fractions and Decimals,C,"Complete the missing value. ![A circle with two other circles below it, connected to the top circle by lines. The top circle has 60% in, one of the bottom circles has 2/5, and the other is blank.]()",\( 100 \% \),\( 60 \% \),\( \frac{2}{10} \),\( 0.4 \),1184.0,2563.0,,2563.0
+218,3403,Given a situation sketch an appropriate non linear real life graph,244,Indirect (Inverse) Proportion,C,Which of the following graphs is most likely to represent the change in journey time against average speed?,![A straight line graph starting at the origin and travelling right with a positive gradient.](),"![A curved graph that starts at the origin. As you move right it travels steeply up, then levels off]()","![A curved graph that starts up and right of the origin. As you move right it travels steeply down, then levels off. but never reaches the x-axis.]()",![A straight line graph starting partway up the y-axis and travelling right with a negative gradient until it hits the x-axis.](),99.0,99.0,,1860.0
